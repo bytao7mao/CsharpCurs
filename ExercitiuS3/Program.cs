@@ -12,6 +12,7 @@ namespace ExercitiuS3
         {
 
             var j = 0;
+            var x = 9;
 
 
             Money myBalance = new Money();
