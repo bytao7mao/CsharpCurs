@@ -1,0 +1,7 @@
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\bin\Debug\ExercitiuS3.exe.config
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\bin\Debug\ExercitiuS3.exe
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\bin\Debug\ExercitiuS3.pdb
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\obj\Debug\ExercitiuS3.csprojResolveAssemblyReference.cache
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\obj\Debug\ExercitiuS3.csproj.CoreCompileInputs.cache
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\obj\Debug\ExercitiuS3.exe
+C:\Users\tao\source\repos\ExercitiuS3\ExercitiuS3\obj\Debug\ExercitiuS3.pdb
