@@ -54,7 +54,7 @@ namespace ExercitiuS3
 
         public void Withdraw(decimal sumDraw)
         {
-            if (this.Balance.Ammount >= sumDraw)
+            if (this.HasEnough(sumDraw))
             {
                 this.Balance.Ammount -= sumDraw;
             }
